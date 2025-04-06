@@ -1,5 +1,6 @@
 # DesktopCat
 DesktopCat is a simple Desktop pet made for Linux
+
 ## Prerequisites
 ```bash
 pip3 install pyqt5
@@ -10,3 +11,6 @@ python3 DesktopCat.py
 ```
 ## Link on itch.io
 https://the100centuryman.itch.io/desktopcat
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
