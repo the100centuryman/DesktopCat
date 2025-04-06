@@ -8,3 +8,5 @@ pip3 install pyqt5
 ```bash
 python3 DesktopCat.py
 ```
+## Link on itch.io
+https://the100centuryman.itch.io/desktopcat
