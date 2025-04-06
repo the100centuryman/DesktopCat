@@ -271,9 +271,6 @@ class DesktopCat(QLabel):
             self.move_timer.stop()
         self.move(new_x, self.y()) # Update x position
 
-# Note: Since there's no specification of a parent widget, QLabel
-# will be interpreted as a independent window.
-
 app = QApplication([])
 pet = DesktopCat()
 pet.show()
