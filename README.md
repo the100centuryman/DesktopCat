@@ -1,5 +1,5 @@
 # DesktopCat
-DesktopCat is a simple Desktop pet made for Linux
+DesktopCat is a simple Desktop pet made for Linux and Windows
 
 ## Prerequisites
 ```bash
